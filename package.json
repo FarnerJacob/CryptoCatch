@@ -1,0 +1,63 @@
+{
+  "name": "CryptoCatch",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@expo/vector-icons": "^6.2.0",
+    "eslint-config-rallycoding": "^3.2.0",
+    "jest-expo": "^21.0.2",
+    "react-native-scripts": "1.5.0",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "rn-nodeify": "github:tradle/rn-nodeify"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bittrexjs": "0.0.4",
+    "crypto-js": "^3.1.9-1",
+    "expo": "^21.0.0",
+    "firebase": "^4.6.2",
+    "immutability-helper": "^2.6.2",
+    "js-sha256": "^0.9.0",
+    "js-sha512": "^0.7.0",
+    "lodash": "^4.17.4",
+    "react": "^16.0.0-alpha.12",
+    "react-dom": "^16.2.0",
+    "react-native": "^0.48.4",
+    "react-native-animated-modal": "^1.1.0",
+    "react-native-autocomplete-input": "^3.4.0",
+    "react-native-chart": "^1.0.8-beta",
+    "react-native-charts-wrapper": "^0.3.1",
+    "react-native-crypto": "^2.1.2",
+    "react-native-drawer": "^2.5.0",
+    "react-native-drawer-menu": "^0.2.5",
+    "react-native-elements": "^0.18.4",
+    "react-native-fcm": "^11.0.1",
+    "react-native-firebase": "^3.2.2",
+    "react-native-floating-action": "^1.5.0",
+    "react-native-material-bottom-navigation": "^0.7.0",
+    "react-native-material-dropdown": "^0.6.1",
+    "react-native-modal": "^4.1.1",
+    "react-native-randombytes": "^3.0.0",
+    "react-native-sha256": "^1.1.1",
+    "react-native-svg": "^5.5.1",
+    "react-native-vector-icons": "^4.0.0",
+    "react-navigation": "^1.0.0-beta.19",
+    "react-redux": "^5.0.6",
+    "react-timestamp": "^4.3.1",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "request": "^2.83.0",
+    "victory-native": "^0.16.1"
+  }
+}

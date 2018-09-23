@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "CryptoCatch",
+    "icon": "./icon.png",
+    "version": "1.0.1",
+    "slug": "cryptocatch",
+    "sdkVersion": "21.0.0",
+    "privacy": "unlisted",
+    "android": {
+      "package": "com.JacobSquared.CryptoCatch"
+    }
+  }
+}
