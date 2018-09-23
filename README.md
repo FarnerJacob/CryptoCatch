@@ -9,7 +9,7 @@ The analysis bot was the starting point for this app. I built the analysis bot t
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/FarnerJacob/CryptoCatch/blob/master/Screenshot_2018-09-23-15-17-22.png" width="350" title="Notifications">
+  <img src="https://github.com/FarnerJacob/CryptoCatch/blob/master/Screenshot_2018-09-23-15-20-17.png" width="350" title="Notifications">
   <img src="https://github.com/FarnerJacob/CryptoCatch/blob/master/Screenshot_2018-09-23-15-16-53.png" width="350" title="Portfolio">
   <img src="https://github.com/FarnerJacob/CryptoCatch/blob/master/Screenshot_2018-09-23-15-20-23.png" width="350" title="Order History">
   <img src="https://github.com/FarnerJacob/CryptoCatch/blob/master/Screenshot_2018-09-23-15-17-22.png" width="350" title="Order Form">
